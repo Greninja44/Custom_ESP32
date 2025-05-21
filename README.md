@@ -96,6 +96,13 @@ The onboard **CP2102N-A02** USB to UART bridge enables seamless programming and 
 - `BOM.csv` & `PickAndPlace.csv` 
 
 ---
+## PCB 
+![Screenshot 2025-05-22 005807](https://github.com/user-attachments/assets/b27c88e1-da5e-4473-9053-b903e551bcbe)
+
+## 3D MODEL
+
+![GIFMaker_me](https://github.com/user-attachments/assets/1fe78920-400e-4711-8bca-8d9a9f1778f1)
+
 
 
 
