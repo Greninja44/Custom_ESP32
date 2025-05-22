@@ -101,8 +101,9 @@ The onboard **CP2102N-A02** USB to UART bridge enables seamless programming and 
 
 ## 3D MODEL
 
-![GIFMaker_me](https://github.com/user-attachments/assets/1fe78920-400e-4711-8bca-8d9a9f1778f1)
 
+
+![2025-05-2201-01-48-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1f09d577-f04e-4eee-82bb-5773d4afa8bc)
 
 
 
